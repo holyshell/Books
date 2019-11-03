@@ -12,6 +12,8 @@
 
 [哥德尔、艾舍尔、巴赫](https://book.douban.com/subject/1291204/)（*Gödel, Escher, Bach: An Eternal Golden Brai*） `Douglas Richard Hofstadter`
 
+[复杂](https://book.douban.com/subject/1030898/)（*Complexity:The Emerging Science at the Edge of Order and Chaos*）` M.Mitchell Waldrop`
+
 [女人的起源](https://book.douban.com/subject/2222424/)（*The Descent of Woman*）`Elaine Morgan`
 
 [态度改变与社会影响](https://book.douban.com/subject/2328178/) （*The Psychology of Attitude Change and Social Influence*）`Philip G. Zimbardo`
