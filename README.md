@@ -1,8 +1,6 @@
 ### Books
 
-存放一些比较特别的图书，不定时更新，清单如下：
-
-*点击书名可直接链接到豆瓣图书页*
+存放一些比较特别的图书电子版，不定时更新，清单如下（*点击书名链接豆瓣图书页*）：
 
 
 
@@ -22,9 +20,13 @@
 
 [科学革命的结构](https://book.douban.com/subject/20376550/) （*The Structure of Scientific Revolutions*）`Thomas S. Kuhn` `Ian Hacking`  
 
+[经验的疆界](https://book.douban.com/subject/6687032/) （*The Ambiguities of Experience*）` James G. March `
+
 [论系统工程](https://book.douban.com/subject/2006338/) `钱学森`
 
 [货币的非国家化](https://book.douban.com/subject/2155342/) （*Denationalization of Money*）` Friedrich August von Hayek `
+
+[跨越鸿沟](https://book.douban.com/subject/3320425/) （*Crossing the chasm*）` Geoffrey Moore `
 
 
 
