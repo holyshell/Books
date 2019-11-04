@@ -4,7 +4,7 @@
 
 
 
-|中文名|英文名|作者
+中文名 | 英文名 | 作者 
 
 [不确定世界的理性选择](https://github.com/holyshell/Books/blob/master/%5B%E4%B8%8D%E7%A1%AE%E5%AE%9A%E4%B8%96%E7%95%8C%E7%9A%84%E7%90%86%E6%80%A7%E9%80%89%E6%8B%A9%EF%BC%9A%E5%88%A4%E6%96%AD%E4%B8%8E%E5%86%B3%E7%AD%96%E5%BF%83%E7%90%86%E5%AD%A6%5D.%E9%9B%B7%E5%BE%B7%C2%B7%E6%B5%B7%E6%96%AF%E8%92%82.pdf)（*Rational Choice in an Uncertain World*）` Reid Hastie `
 
