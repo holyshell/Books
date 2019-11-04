@@ -10,9 +10,13 @@
 
 [你一生的故事](https://github.com/holyshell/Books/blob/master/%5B%E4%BD%A0%E4%B8%80%E7%94%9F%E7%9A%84%E6%95%85%E4%BA%8B%5D(%E6%96%87%E5%AD%97%E7%89%88).%E7%89%B9%E5%BE%B7%C2%B7%E8%92%8B.pdf)（*Stories of Your Life and Others*）`Ted Chiang`
 
+[千面英雄](https://github.com/holyshell/Books/blob/master/%5B%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84%5D.%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94.pdf)（*The Hero with a Thousand Faces*）`Joseph Campbell`
+
 [哥德尔、艾舍尔、巴赫](https://github.com/holyshell/Books/blob/master/%5B%E5%93%A5%E5%BE%B7%E5%B0%94%EF%BC%8C%E5%9F%83%E8%88%8D%E5%B0%94%E5%92%8C%E5%B7%B4%E8%B5%AB%E2%80%94%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90%5D.%E4%BE%AF%E4%B8%96%E8%BE%BE.pdf)（*Gödel, Escher, Bach: An Eternal Golden Brai*） `Douglas Richard Hofstadter`
 
 [复杂](https://github.com/holyshell/Books/blob/master/%5B%E5%A4%8D%E6%9D%82-%E8%AF%9E%E7%94%9F%E4%BA%8E%E7%A7%A9%E5%BA%8F%E4%B8%8E%E6%B7%B7%E6%B2%8C%E8%BE%B9%E7%BC%98%E7%9A%84%E7%A7%91%E5%AD%A6%5D.%E7%B1%B3%E6%AD%87%E5%B0%94%C2%B7%E6%B2%83%E5%B0%94%E5%BE%B7%E7%BD%97%E6%99%AE.pdf)（*Complexity:The Emerging Science at the Edge of Order and Chaos*）` M.Mitchell Waldrop`
+
+[失控](https://github.com/holyshell/Books/blob/master/%5B%E5%A4%B1%E6%8E%A7-%E5%85%A8%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%9C%80%E7%BB%88%E5%91%BD%E8%BF%90%E5%92%8C%E7%BB%93%E5%B1%80%5D.%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9.pdf)（*Out of Control*）`Kevin Kelly`
 
 [女人的起源](https://github.com/holyshell/Books/blob/master/%5B%E5%A5%B3%E4%BA%BA%E7%9A%84%E8%B5%B7%E6%BA%90%5D.%E4%BC%8A%E8%8E%B2%C2%B7%E6%91%A9%E6%A0%B9.pdf)（*The Descent of Woman*）`Elaine Morgan`
 
