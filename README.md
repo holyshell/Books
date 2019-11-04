@@ -4,7 +4,9 @@
 
 
 
-[Permanent Record](https://github.com/holyshell/Books/blob/master/%5BPermanent%20Record%5D.Snowden.mobi) `Edward Snowden`
+[永久记录](https://github.com/holyshell/Books/blob/master/%5BPermanent%20Record%5D.Snowden.mobi) （*Permanent Record*）`Edward Snowden`
+
+[不确定世界的理性选择](https://github.com/holyshell/Books/blob/master/%5B%E4%B8%8D%E7%A1%AE%E5%AE%9A%E4%B8%96%E7%95%8C%E7%9A%84%E7%90%86%E6%80%A7%E9%80%89%E6%8B%A9%EF%BC%9A%E5%88%A4%E6%96%AD%E4%B8%8E%E5%86%B3%E7%AD%96%E5%BF%83%E7%90%86%E5%AD%A6%5D.%E9%9B%B7%E5%BE%B7%C2%B7%E6%B5%B7%E6%96%AF%E8%92%82.pdf)（*Rational Choice in an Uncertain World*）` Reid Hastie `
 
 [你一生的故事](https://github.com/holyshell/Books/blob/master/%5B%E4%BD%A0%E4%B8%80%E7%94%9F%E7%9A%84%E6%95%85%E4%BA%8B%5D(%E6%96%87%E5%AD%97%E7%89%88).%E7%89%B9%E5%BE%B7%C2%B7%E8%92%8B.pdf) `特德·蒋`
 
