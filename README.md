@@ -28,7 +28,7 @@
 
 [有限和无限的游戏](https://github.com/holyshell/Books/blob/master/%5B%E6%9C%89%E9%99%90%E4%B8%8E%E6%97%A0%E9%99%90%E7%9A%84%E6%B8%B8%E6%88%8F%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%93%B2%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%AB%9E%E6%8A%80%E4%B8%96%E7%95%8C%5D.%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%8D%A1%E6%96%AF.pdf)（*Finite and Infinite Games*）`James P.Carse`
 
-[永久档案]( [https://github.com/holyshell/Books/blob/master/%5B%E6%B0%B8%E4%B9%85%E6%AA%94%E6%A1%88%5D.%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB.pdf](https://github.com/holyshell/Books/blob/master/[永久檔案].爱德华·斯诺登.pdf) ) （*Permanent Record*）`Edward Snowden`
+[永久档案](https://github.com/holyshell/Books/blob/master/%5B%E6%B0%B8%E4%B9%85%E6%AA%94%E6%A1%88%5D.%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB.pdf)（*Permanent Record*）`Edward Snowden`
 
 [理解人性](https://github.com/holyshell/Books/blob/master/%5B%E7%90%86%E8%A7%A3%E4%BA%BA%E6%80%A7%5D.%E9%98%BF%E5%BE%B7%E5%8B%92.pdf) （*Understanding human nature*）`Alfred Adler`
 
