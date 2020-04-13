@@ -26,6 +26,8 @@
 
 [态度改变与社会影响](https://github.com/holyshell/Books/blob/master/%5B%E6%80%81%E5%BA%A6%E6%94%B9%E5%8F%98%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%BD%B1%E5%93%8D%5D.%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A.pdf) （*The Psychology of Attitude Change and Social Influence*）`Philip G. Zimbardo`
 
+[我的经验与教训](https://github.com/holyshell/Books/blob/master/%5B%E6%88%91%E7%9A%84%E7%BB%8F%E9%AA%8C%E4%B8%8E%E6%95%99%E8%AE%AD%5D.%E8%8B%8F%E4%B8%96%E6%B0%91.pdf)（*What It Takes：Lessons in the Pursuit of Excellence*）`Stephen A. Schwarzman`
+
 [有限和无限的游戏](https://github.com/holyshell/Books/blob/master/%5B%E6%9C%89%E9%99%90%E4%B8%8E%E6%97%A0%E9%99%90%E7%9A%84%E6%B8%B8%E6%88%8F%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%93%B2%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%AB%9E%E6%8A%80%E4%B8%96%E7%95%8C%5D.%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%8D%A1%E6%96%AF.pdf)（*Finite and Infinite Games*）`James P.Carse`
 
 [枪炮、病菌与钢铁](https://github.com/holyshell/Books/blob/master/%5B%E6%9E%AA%E7%82%AE%E7%97%85%E8%8F%8C%E4%B8%8E%E9%92%A2%E9%93%81%EF%BC%9A%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%91%BD%E8%BF%90%5D(%E4%BF%AE%E8%AE%A2%E7%89%88).%E8%B4%BE%E9%9B%B7%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99%E5%BE%B7.pdf)（*Guns, Germs and Steel*）`Jared Diamond`
