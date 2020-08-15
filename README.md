@@ -36,6 +36,8 @@
 
 [理解人性](https://github.com/holyshell/Books/blob/master/%5B%E7%90%86%E8%A7%A3%E4%BA%BA%E6%80%A7%5D.%E9%98%BF%E5%BE%B7%E5%8B%92.pdf) （*Understanding human nature*）`Alfred Adler`
 
+[社会心理学](https://github.com/holyshell/Books/blob/master/%5B%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%5D.%E6%88%B4%E7%BB%B4%C2%B7%E8%BF%88%E5%B0%94%E6%96%AF.pdf)（*Social Psychology*）`David Myers`
+
 [科学革命的结构](https://github.com/holyshell/Books/blob/master/%5B%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD%E7%9A%84%E7%BB%93%E6%9E%84%5D(%E7%AC%AC%E5%9B%9B%E7%89%88).%E6%89%98%E9%A9%AC%E6%96%AF.%E5%BA%93%E6%81%A9.pdf) （*The Structure of Scientific Revolutions*）`Thomas S. Kuhn`&`Ian Hacking`  
 
 [经验的疆界](https://github.com/holyshell/Books/blob/master/%5B%E7%BB%8F%E9%AA%8C%E7%9A%84%E7%96%86%E7%95%8C%5D.%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%A9%AC%E5%A5%87.pdf) （*The Ambiguities of Experience*）` James G. March `
