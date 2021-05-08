@@ -8,6 +8,8 @@
 
 [不确定世界的理性选择](https://github.com/holyshell/Books/blob/master/%5B%E4%B8%8D%E7%A1%AE%E5%AE%9A%E4%B8%96%E7%95%8C%E7%9A%84%E7%90%86%E6%80%A7%E9%80%89%E6%8B%A9%EF%BC%9A%E5%88%A4%E6%96%AD%E4%B8%8E%E5%86%B3%E7%AD%96%E5%BF%83%E7%90%86%E5%AD%A6%5D.%E9%9B%B7%E5%BE%B7%C2%B7%E6%B5%B7%E6%96%AF%E8%92%82.pdf)（*Rational Choice in an Uncertain World*）` Reid Hastie `
 
+[亲密关系](https://github.com/holyshell/Books/blob/master/%5B%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%5D(%E7%AC%AC6%E7%89%88).%20%E7%BD%97%E5%85%B0%C2%B7%E7%B1%B3%E5%8B%92.pdf) (*Intimate Relationship*) `Rowland S. Miller`
+
 [什么是数学](https://github.com/holyshell/Books/blob/master/%5B%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%B0%E5%AD%A6%EF%BC%9A%E5%AF%B9%E6%80%9D%E6%83%B3%E5%92%8C%E6%96%B9%E6%B3%95%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%A0%94%E7%A9%B6%5D.R%C2%B7%E6%9F%AF%E6%9C%97.H%C2%B7%E7%BD%97%E5%AE%BE.pdf)（*What Is Mathematics*）` Richard Courant `&` Herbert Robbins `
 
 [你一生的故事](https://github.com/holyshell/Books/blob/master/%5B%E4%BD%A0%E4%B8%80%E7%94%9F%E7%9A%84%E6%95%85%E4%BA%8B%5D(%E6%96%87%E5%AD%97%E7%89%88).%E7%89%B9%E5%BE%B7%C2%B7%E8%92%8B.pdf)（*Stories of Your Life and Others*）`Ted Chiang`
@@ -47,6 +49,10 @@
 [货币的非国家化](https://github.com/holyshell/Books/blob/master/%5B%E8%B4%A7%E5%B8%81%E7%9A%84%E9%9D%9E%E5%9B%BD%E5%AE%B6%E5%8C%96%5D.%E5%93%88%E8%80%B6%E5%85%8B.pdf) （*Denationalization of Money*）` Friedrich August von Hayek `
 
 [跨越鸿沟](https://github.com/holyshell/Books/blob/master/%5B%E8%B7%A8%E8%B6%8A%E9%B8%BF%E6%B2%9F%5D.%E6%9D%B0%E5%BC%97%E9%87%8C%C2%B7%E6%91%A9%E5%B0%94.pdf) （*Crossing the chasm*）` Geoffrey Moore `
+
+
+
+WeChat:`studytoknow`
 
 
 
