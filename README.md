@@ -26,6 +26,8 @@
 
 [如何阅读一本书](https://github.com/holyshell/Books/blob/master/%5B%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%5D.%E8%8E%AB%E6%8F%90%E9%BB%98%C2%B7J.%20%E8%89%BE%E5%BE%B7%E5%8B%92.pdf)（*How to Read a Book*）`Mortimer J. Adler`&`Charles Van Doren`
 
+[常识](https://github.com/holyshell/Books/blob/master/%5B%E5%B8%B8%E8%AF%86%5D.%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9.pdf)（Common Sense）`Thomas Paine`
+
 [态度改变与社会影响](https://github.com/holyshell/Books/blob/master/%5B%E6%80%81%E5%BA%A6%E6%94%B9%E5%8F%98%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%BD%B1%E5%93%8D%5D.%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A.pdf) （*The Psychology of Attitude Change and Social Influence*）`Philip G. Zimbardo`
 
 [我的经验与教训](https://github.com/holyshell/Books/blob/master/%5B%E6%88%91%E7%9A%84%E7%BB%8F%E9%AA%8C%E4%B8%8E%E6%95%99%E8%AE%AD%5D.%E8%8B%8F%E4%B8%96%E6%B0%91.pdf)（*What It Takes：Lessons in the Pursuit of Excellence*）`Stephen A. Schwarzman`
