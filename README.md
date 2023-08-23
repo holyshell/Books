@@ -1,6 +1,6 @@
 ## Books
 
-> 存放一些个人喜欢也比较特别的图书电子版，以PDF和epub格式为主，不定时更新。
+> 存放一些个人喜欢也比较特别的图书电子版，以PDF和epub格式为主，不定时更新。若存在版权问题请联系我删除。
 
 ### 书籍清单
 
@@ -56,8 +56,6 @@
 
 [自私的基因](https://github.com/holyshell/Books/blob/master/%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%EF%BC%8840%E5%91%A8%E5%B9%B4%E5%A2%9E%E8%AE%A2%E7%89%88%EF%BC%89.epub)（*The Extended Selfish Gene*）`Richard Dawkins`
 
-### 说明
-若存在版权问题请联系我删除，谢谢。
 
 ### Contact
 WeChat:`studytoknow`
