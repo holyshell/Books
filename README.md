@@ -1,6 +1,6 @@
 ## Books
 
-> 存放一些个人喜欢也比较特别的图书，以PDF和epub格式为主;
+> 存放一些个人喜欢也比较特别的图书，以PDF和epub格式为主；
 > 所有电子书均为中文电子版，不定时更新。
 
 ### 书籍清单
@@ -47,7 +47,7 @@
 
 [经验的疆界](https://github.com/holyshell/Books/blob/master/%5B%E7%BB%8F%E9%AA%8C%E7%9A%84%E7%96%86%E7%95%8C%5D.%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%A9%AC%E5%A5%87.pdf)  | The Ambiguities of Experience | ` James G. March `
 
-[论系统工程](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf) `钱学森`
+[论系统工程](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf) | `钱学森`
 
 [货币的非国家化](https://github.com/holyshell/Books/blob/master/%5B%E8%B4%A7%E5%B8%81%E7%9A%84%E9%9D%9E%E5%9B%BD%E5%AE%B6%E5%8C%96%5D.%E5%93%88%E8%80%B6%E5%85%8B.pdf)  | Denationalization of Money | ` Friedrich August von Hayek `
 
