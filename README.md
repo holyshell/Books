@@ -1,6 +1,6 @@
 ## Books
 
-> 存放一些个人喜欢也比较特别的图书电子版，以PDF和epub格式为主，不定时更新。若存在版权问题请联系我删除。
+> 存放一些个人喜欢也比较特别的图书电子版，以PDF和epub格式为主，不定时更新。
 
 ### 书籍清单
 
@@ -55,6 +55,7 @@
 [金枝](https://github.com/holyshell/Books/blob/master/%E3%80%8A%E9%87%91%E6%9E%9D%E3%80%8B(%E5%85%A8%E4%B8%A4%E5%86%8C)%EF%BC%9A%E8%B7%A8%E8%B6%8A%E4%B8%87%E5%B9%B4%E7%9A%84%E4%BA%BA%E6%80%A7%E8%BF%9B%E5%8C%96%E6%95%85%E4%BA%8B.epub)（*The Golden Bough*）`James George Frazer`
 
 [米德尔马契](https://github.com/holyshell/Books/blob/master/%E7%B1%B3%E5%BE%B7%E5%B0%94%E9%A9%AC%E5%A5%91%20%5B%E8%8B%B1%5D%20%E4%B9%94%E6%B2%BB%C2%B7%E8%89%BE%E7%95%A5%E7%89%B9.epub)（*Middlemarch*）`George Eliot`
+
 [自私的基因](https://github.com/holyshell/Books/blob/master/%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%EF%BC%8840%E5%91%A8%E5%B9%B4%E5%A2%9E%E8%AE%A2%E7%89%88%EF%BC%89.epub)（*The Extended Selfish Gene*）`Richard Dawkins`
 
 
