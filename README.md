@@ -52,6 +52,7 @@
 
 [跨越鸿沟](https://github.com/holyshell/Books/blob/master/%5B%E8%B7%A8%E8%B6%8A%E9%B8%BF%E6%B2%9F%5D.%E6%9D%B0%E5%BC%97%E9%87%8C%C2%B7%E6%91%A9%E5%B0%94.pdf) （*Crossing the chasm*）` Geoffrey Moore `
 
+[金枝](https://github.com/holyshell/Books/blob/master/%E3%80%8A%E9%87%91%E6%9E%9D%E3%80%8B(%E5%85%A8%E4%B8%A4%E5%86%8C)%EF%BC%9A%E8%B7%A8%E8%B6%8A%E4%B8%87%E5%B9%B4%E7%9A%84%E4%BA%BA%E6%80%A7%E8%BF%9B%E5%8C%96%E6%95%85%E4%BA%8B.epub)(*The Golden Bough*)`James George Frazer`
 
 
 WeChat:`studytoknow`
