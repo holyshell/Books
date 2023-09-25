@@ -3,7 +3,9 @@
 > 存放一些个人喜欢也比较特别的图书，以PDF和epub格式为主；
 > 所有电子书均为中文电子版，不定时更新。
 
-### 书籍清单
+> 因GitHub对文件有大小限制，部分PDF文件会做优化处理，清晰度会受到一定影响，不过基本不影响阅读:)
+
+### 书籍列表
 
 中文名 | 英文名 | 作者 
 
@@ -30,6 +32,8 @@
 [常识](https://github.com/holyshell/Books/blob/master/%5B%E5%B8%B8%E8%AF%86%5D.%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9.pdf) | Common Sense | `Thomas Paine`
 
 [态度改变与社会影响](https://github.com/holyshell/Books/blob/master/%5B%E6%80%81%E5%BA%A6%E6%94%B9%E5%8F%98%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%BD%B1%E5%93%8D%5D.%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A.pdf) | The Psychology of Attitude Change and Social Influence | `Philip G. Zimbardo`
+
+[怎样解题：数学思维的新方法](https://github.com/holyshell/Books/blob/master/%5B%E6%80%8E%E6%A0%B7%E8%A7%A3%E9%A2%98%EF%BC%9A%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4%E7%9A%84%E6%96%B0%E6%96%B9%E6%B3%95%5D.G%C2%B7%E6%B3%A2%E5%88%A9%E4%BA%9A.pdf) | How to Solve It : A New Aspect of Mathematical Method | `George Polya`
 
 [我的经验与教训](https://github.com/holyshell/Books/blob/master/%5B%E6%88%91%E7%9A%84%E7%BB%8F%E9%AA%8C%E4%B8%8E%E6%95%99%E8%AE%AD%5D.%E8%8B%8F%E4%B8%96%E6%B0%91.pdf) | What It Takes：Lessons in the Pursuit of Excellence | `Stephen A. Schwarzman`
 
