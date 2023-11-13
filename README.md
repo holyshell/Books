@@ -72,6 +72,9 @@
 
 [如何进行跨学科研究](https://github.com/holyshell/Books/releases/tag/20231113) |  Interdisciplinary research process and theory | `Allen F. Repko`
 
+[经济人的末日](https://github.com/holyshell/Books/releases/tag/202311131) ｜ The End of Economic Man:
+The Origins of Totalitarianism ｜ `Peter F. Drucker`
+
 ### Contact
 WeChat:`studytoknow`
 
