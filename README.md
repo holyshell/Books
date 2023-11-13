@@ -70,6 +70,7 @@
 
 [自私的基因](https://github.com/holyshell/Books/blob/master/%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%EF%BC%8840%E5%91%A8%E5%B9%B4%E5%A2%9E%E8%AE%A2%E7%89%88%EF%BC%89.epub) | The Extended Selfish Gene | `Richard Dawkins`
 
+[如何进行跨学科研究](https://github.com/holyshell/Books/releases/tag/20231113) |  Interdisciplinary research process and theory | `Allen F. Repko`
 
 ### Contact
 WeChat:`studytoknow`
