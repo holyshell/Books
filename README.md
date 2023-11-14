@@ -75,6 +75,8 @@
 [经济人的末日](https://github.com/holyshell/Books/releases/tag/202311131) ｜ The End of Economic Man:
 The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
+[艺术的故事](https://github.com/holyshell/Books/releases/tag/20231114) ｜ The Story of Art ｜ `Sir. Ernst Gombrich`
+
 ### Contact
 WeChat:`studytoknow`
 
