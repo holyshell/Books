@@ -1,20 +1,18 @@
 ## Books
 
-### 说明
-
 存放一些个人喜欢也比较特别的图书，以`PDF`格式为主，部分为`EPUB`；所有电子书均为中文版本，不定时更新。
 
-> - 因 GitHub 对代码文件有大小限制，部分`PDF`会做优化，清晰度会受到一定影响，不过基本不影响阅读；
-> 
-> - 较大的文件（一般超过50MB）会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
-> 
-> - 若中文版本书籍出现删减情况，会尽量寻找未删减版本（大概率是繁体版）进行更新；
->
-> - 所有书籍均来自互联网分享，若涉及版权问题请联系我。
+- 因 GitHub 对代码文件有大小限制，部分`PDF`会做优化，清晰度会受到一定影响，不过基本不影响阅读；
+ 
+- 较大的文件（一般超过50MB）会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
+ 
+- 若中文版本书籍出现删减情况，会尽量寻找未删减版本（大概率是中文繁体版）进行更新；
 
-### 书籍列表
+- 所有书籍均来自互联网分享，若涉及版权问题请联系我。
 
-中文名 | 英文名 | 作者 
+## 书籍列表
+
+中文名  |  英文名  |  作者 
 
 [不确定世界的理性选择](https://github.com/holyshell/Books/blob/master/%5B%E4%B8%8D%E7%A1%AE%E5%AE%9A%E4%B8%96%E7%95%8C%E7%9A%84%E7%90%86%E6%80%A7%E9%80%89%E6%8B%A9%EF%BC%9A%E5%88%A4%E6%96%AD%E4%B8%8E%E5%86%B3%E7%AD%96%E5%BF%83%E7%90%86%E5%AD%A6%5D.%E9%9B%B7%E5%BE%B7%C2%B7%E6%B5%B7%E6%96%AF%E8%92%82.pdf) | Rational Choice in an Uncertain World | ` Reid Hastie `
 
@@ -79,7 +77,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [艺术的故事](https://github.com/holyshell/Books/releases/tag/20231114) ｜ The Story of Art ｜ `Sir. Ernst Gombrich`
 
-### Contact
+## Contact
 WeChat:`studytoknow`
 
 
