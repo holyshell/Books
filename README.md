@@ -79,6 +79,8 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [研究的方法](https://github.com/holyshell/Books/releases/tag/20240302) | Where Research Begins | `Thomas S. Mullaney`
 
+[游戏设计艺术](https://github.com/holyshell/Books/releases/tag/20241016) | The Art of Game Design | `Jesse Schell`
+
 ## Contact
 WeChat:`studytoknow`
 
