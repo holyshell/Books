@@ -86,7 +86,12 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 [游戏设计艺术](https://github.com/holyshell/Books/releases/tag/20241016) | The Art of Game Design | `Jesse Schell`
 
 ## Contact
-WeChat:`studytoknow`
+<details>
+<summary>WeChat</summary>
+ 
+`studytoknow`
+
+</details>
 
 ## Star History
 
