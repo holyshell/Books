@@ -85,6 +85,8 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [游戏设计艺术](https://github.com/holyshell/Books/releases/tag/20241016) | The Art of Game Design | `Jesse Schell`
 
+[科学究竟是什么](https://github.com/holyshell/Books/releases/tag/20241118) | What Is This Thing Called Science | `A.F.Chalmers`
+
 ## Contact
 <details>
 <summary>WeChat</summary>
