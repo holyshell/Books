@@ -87,6 +87,10 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [科学究竟是什么](https://github.com/holyshell/Books/releases/tag/20241118) | What Is This Thing Called Science | `A.F.Chalmers`
 
+
+## Just for fun
+<img width = "780" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
+
 ## Contact
 <details>
 <summary>WeChat</summary>
