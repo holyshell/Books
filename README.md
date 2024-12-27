@@ -91,14 +91,6 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 ## Just for fun
 <img width = "780" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
-## Contact
-<details>
-<summary>WeChat</summary>
- 
-`studytoknow`
-
-</details>
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=holyshell/Books&type=Date)](https://star-history.com/#holyshell/Books&Date)
