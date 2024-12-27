@@ -87,8 +87,10 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [科学究竟是什么](https://github.com/holyshell/Books/releases/tag/20241118) | What Is This Thing Called Science | `A.F.Chalmers`
 
+[哲学的历程](https://github.com/holyshell/Books/releases/tag/20241227) | A Historical Introduction to Philosophy | `William F.Lawhead`
 
-## Just for fun
+
+## Best wishs
 <img width = "780" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
 ## Star History
