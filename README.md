@@ -3,10 +3,8 @@
 ## Abstract
 
 存放一些个人喜欢也比较特别的图书，以`PDF`格式为主，部分为`EPUB`；所有电子书均为中文版本，不定时更新。
-
-- 因 GitHub 对代码文件有大小限制，部分`PDF`会做优化，清晰度会受到一定影响，不过基本不影响阅读；
  
-- 较大的文件（一般超过50MB）会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
+- 较大的书籍文件（一般超过50MB）会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
  
 - 若中文版本书籍出现删减情况，会尽量寻找未删减版本（大概率是中文繁体版）进行更新；
 
