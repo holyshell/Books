@@ -92,7 +92,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 <img width = "450" height = "600" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/readingqrcode.jpeg">
 
 ## Best wishs
-<img width = "780" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
+<img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
 ## Star History
 
