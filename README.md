@@ -91,7 +91,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 ## 交流群
 > 尝试性的在微信建立一个读书交流群，不搞打卡，不搞情绪，如果你也喜欢读书或聊聊与书有关的事儿，欢迎加入:)
-<img width = "450" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/readingqrcode.JPG">
+<img width = "400" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/readinggroup.JPG">
 
 ## Best wishs
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
