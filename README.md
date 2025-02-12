@@ -90,9 +90,9 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 [哲学的历程](https://github.com/holyshell/Books/releases/tag/20241227) | A Historical Introduction to Philosophy | `William F.Lawhead`
 
 ## 交流群
-> 尝试性的在微信建立一个读书交流群，不搞打卡，不搞情绪，如果你也喜欢读书或聊聊与书有关的事儿，欢迎加入:)
+> 尝试性在微信建立一个读书交流群，不搞打卡，不搞情绪，如果你也喜欢读书或聊聊与书有关的事儿，欢迎加入:)
 
-<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/chat.JPG">
+<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/group.JPG">
 
 ## Best wishs
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
