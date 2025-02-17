@@ -94,7 +94,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 <img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/group.JPG">
 
-## Best wishs
+## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
 ## Star History
