@@ -1,8 +1,13 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fholyshell%2FBooks%2F&countColor=%23263759)
+# Books
+> Some special ebooks
+
+![GitHub Repo stars](https://img.shields.io/github/stars/holyshell/Books)
+![GitHub forks](https://img.shields.io/github/forks/holyshell/Books)
+![GitHub watchers](https://img.shields.io/github/watchers/holyshell/Books)
 
 ## Abstract
 
-本[仓库](https://github.com/holyshell/Books)存放一些个人喜欢也比较特别的图书，不定时更新：
+[本仓库](https://github.com/holyshell/Books)存放一些个人喜欢也比较特别的图书，不定时更新：
 
 - 所有图书以`PDF`格式为主，部分为`EPUB`；所有电子书均为中文版本；
 
@@ -92,7 +97,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 ## 交流群
 > 尝试性在微信建立一个读书交流群，不搞打卡，不搞情绪，如果你也喜欢读书或聊聊与书有关的事儿，欢迎加入:)
 
-<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/group.JPG">
+<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/chat1.JPG">
 
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
