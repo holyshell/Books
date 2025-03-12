@@ -94,6 +94,8 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [哲学的历程](https://github.com/holyshell/Books/releases/tag/20241227) | A Historical Introduction to Philosophy | `William F.Lawhead`
 
+[普林斯顿数学指南](https://github.com/holyshell/Books/releases/tag/20250312) | The Princeton Companion to Mathematics | `Timothy Gowers` 
+
 ## 交流群
 > 尝试性在微信建立一个读书交流群，不搞打卡，不搞情绪，如果你也喜欢读书或聊聊与书有关的事儿，欢迎加入:)
 
