@@ -17,7 +17,7 @@
 
 - 所有书籍均来自互联网分享，若涉及版权问题请联系我；
 
-- 如果你也喜欢读书或聊聊与书有关的事儿，欢迎[加入群聊](#交流群):)
+- 如果你也喜欢读书或聊聊与书有关的事儿，欢迎[加入群聊](#支持与交流):)
 
 ## Book list
 
@@ -98,13 +98,13 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [普林斯顿数学指南](https://github.com/holyshell/Books/releases/tag/20250312) | The Princeton Companion to Mathematics | `Timothy Gowers` 
 
-## 交流群
-> 尝试性在微信建立一个读书交流群，不搞打卡，不搞情绪，如果你也喜欢读书或聊聊与书有关的事儿，欢迎加入:)
+## 支持与交流
+> 如果这些书籍对你有用，可以请我喝杯咖啡，或加入交流群，我们一起聊聊与书有关的事儿:)
 
-<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/chat7.JPG">
+| 微信赞赏码                   | 微信交流群                         | 联系我                  |
+|----------------------------|----------------------------------|-------------------------|
+|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_9916.JPG) | ![联系我](./img/my.jpg)
 
-## Best wishes
-<img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
 ## Star History
 
