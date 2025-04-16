@@ -103,7 +103,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 | 微信赞赏码                   | 微信交流群                         | 联系我                  |
 |----------------------------|----------------------------------|-------------------------|
-|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_9916.JPG) | ![联系我](./img/my.jpg)
+|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_9916.JPG) | ![联系我](./img/myid.jpg)
 
 
 ## Star History
