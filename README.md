@@ -98,6 +98,8 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [普林斯顿数学指南](https://github.com/holyshell/Books/releases/tag/20250312) | The Princeton Companion to Mathematics | `Timothy Gowers` 
 
+[个人知识](https://github.com/holyshell/Books/releases/tag/20250423) | Personal Knowledge | `Michael Polanyi`
+
 ## 支持与交流
 > 如果这些书籍对你有帮助，可以请我喝杯咖啡☕，或加入交流群，我们一起聊聊与书有关的事儿:)
 
