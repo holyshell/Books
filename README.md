@@ -62,6 +62,8 @@
 
 [永久档案](https://github.com/holyshell/Books/blob/master/%5B%E6%B0%B8%E4%B9%85%E6%AA%94%E6%A1%88%5D.%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB.pdf) | Permanent Record | `Edward Snowden`
 
+[江湖丛谈](https://github.com/holyshell/Books/blob/master/%5B%E6%B1%9F%E6%B9%96%E4%B8%9B%E8%B0%88%5D.%20%E8%BF%9E%E9%98%94%E5%A6%82.pdf) | `连阔如`
+
 [理解人性](https://github.com/holyshell/Books/blob/master/%5B%E7%90%86%E8%A7%A3%E4%BA%BA%E6%80%A7%5D.%E9%98%BF%E5%BE%B7%E5%8B%92.pdf) | Understanding human nature | `Alfred Adler`
 
 [社会心理学](https://github.com/holyshell/Books/blob/master/%5B%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%5D.%E6%88%B4%E7%BB%B4%C2%B7%E8%BF%88%E5%B0%94%E6%96%AF.pdf) | Social Psychology | `David Myers`
@@ -110,7 +112,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 | 微信赞赏码                   | 微信交流群                         | 联系我                  |
 |----------------------------|----------------------------------|-------------------------|
-|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_3304.JPG) | ![联系我](./img/myid.jpg)
+|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_3384.JPG) | ![联系我](./img/myid.jpg)
 
 
 ## Star History
