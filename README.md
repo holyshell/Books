@@ -24,7 +24,7 @@
 > 
 > 所有书籍仅供研究学习使用，请在下载后24小时内删除，请勿用于商业目的，请支持正版。
 
-## Book list
+## Book lists
 
 中文名  |  英文名  |  作者 
 
@@ -112,7 +112,7 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 | 微信赞赏码                   | 微信交流群                         | 联系我                  |
 |----------------------------|----------------------------------|-------------------------|
-|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_7346.JPG) | ![联系我](./img/myid.jpg)
+|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_7432.JPG) | ![联系我](./img/myid.jpg)
 
 
 ## Star History
