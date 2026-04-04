@@ -107,6 +107,8 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [个人知识](https://github.com/holyshell/Books/releases/tag/20250423) | Personal Knowledge | `Michael Polanyi`
 
+[历史的观念](https://github.com/holyshell/Books/releases/tag/20260404) | The Idea of History | `Robin George Collingwood`
+
 ## 支持与交流
 > 如果这些书籍对你有帮助，可以请我喝杯咖啡☕，或加入交流群，我们一起聊聊与书有关的事儿:)
 
