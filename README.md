@@ -1,9 +1,6 @@
 # Books
 > Some special ebooks
 
-![GitHub Repo stars](https://img.shields.io/github/stars/holyshell/Books)
-![GitHub forks](https://img.shields.io/github/forks/holyshell/Books)
-![GitHub watchers](https://img.shields.io/github/watchers/holyshell/Books)
 
 ## Abstract
 
